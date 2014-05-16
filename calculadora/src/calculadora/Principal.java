@@ -11,7 +11,7 @@ public class Principal {
 		int numero1;
 		int numero2;
 		
-		String casa ( JOptionPane.showInputDialog("Mensagem")); 
+		String mesa ( JOptionPane.showInputDialog("Mensagem")); 
 		 	
 		
 		
